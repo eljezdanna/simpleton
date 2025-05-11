@@ -1,0 +1,23 @@
+{
+  "name": "simpleton",
+  "version": "1.0.0",
+  "description": "A simple npm package example.",
+  "main": "index.js",
+  "keywords": [
+    "tools",
+    "fun",
+    "tea"
+  ],
+  "scripts": {
+      "test": "jest"
+    },
+  "author": "Eljez Danna",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eljezdanna/simpleton"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
