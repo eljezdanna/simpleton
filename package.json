@@ -16,8 +16,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eljezdanna/simpleton.git"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
   }
 }
